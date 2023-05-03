@@ -1,0 +1,4 @@
+flask - python web server to create website
+pandas - helps with organization
+requests - python library that connects to webservers and downloads html
+beautifulsoup4 - python library that parses html and extracts text and other data from it
