@@ -23,7 +23,7 @@ styles = """
   
   .rel-button {
       cursor: pointer;
-      color: blue;
+      color: red;
   }
 </style>
 
